@@ -42,11 +42,6 @@ Este projeto foi elaborado pelas estudantes durante o segundo semestre de gradua
 
 </ul> 
 
-### Dicas, dúvidas ou curiosidade? Entre em contato :ok_woman:
-
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/kpsmonyque/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/monyquekaroline.paulasilva)
-[<img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/channel/UCkPvPpkuacuD2O5Km7vXs6A)
 
 <hr>
 
@@ -54,6 +49,7 @@ Este projeto foi elaborado pelas estudantes durante o segundo semestre de gradua
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/>
 
+<hr>
 
 ### Estou aprendendo
 
@@ -69,6 +65,12 @@ Este projeto foi elaborado pelas estudantes durante o segundo semestre de gradua
 <img height="130em" src="https://github-readme-stats.vercel.app/api?username=monocas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monocas&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+  
+  <hr>
 
-### Muito obrigada pela atenção! Até a próxima :raising_hand_woman:
-<img src="https://user-images.githubusercontent.com/106678040/194165056-a15e2632-2b27-4d3d-9dc7-7cf209205fd5.png" width="400" height="400"/>
+### Dicas, dúvidas ou curiosidade? Entre em contato :ok_woman: :raising_hand_woman:
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/kpsmonyque/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/monyquekaroline.paulasilva)
+[<img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/channel/UCkPvPpkuacuD2O5Km7vXs6A)
+  
+  <img src="https://user-images.githubusercontent.com/106678040/194165056-a15e2632-2b27-4d3d-9dc7-7cf209205fd5.png" width="400" height="400"/>
