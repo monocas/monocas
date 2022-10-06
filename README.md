@@ -13,7 +13,8 @@
 [<img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/channel/UCkPvPpkuacuD2O5Km7vXs6A)
 </details>
 
-<h3 align="center"> ✨ Olá! Seja bem vindo ao meu perfil do GitHub ✨</h3>
+<img src="https://user-images.githubusercontent.com/106678040/194310965-3a3d353a-d7d2-482d-8466-247b1e6148f5.png" width="1200" height="400"/>
+
 
 <ul> :ok_woman: Meu nome é Monyque, mas podem me chamar de "Monocas"! </ul> 
 <ul> :ok_woman: Técnica em Eletrônica, IFSP - Campus Campinas/SP.</ul> 
