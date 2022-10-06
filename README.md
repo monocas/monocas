@@ -20,13 +20,13 @@
 <li> :ok_woman: Meu nome é Monyque, mas podem me chamar de "Monocas"! </li>
 <li> :woman_student:  Técnica em Eletrônica, IFSP - Campus Campinas/SP.</li> 
 <li> :woman_scientist:Estudante do Bacharelado de Ciência e Tecnologia da Ilum - Escola de Ciência - Campinas/SP. </li> 
-<li> :fire: <b> Projeto atual:</b> Risco de Fogo: O uso de machine learning para análise das queimadas no cerrado brasileiro </li> 
+<li> :fire: <b> Projeto atual:</b> Risco de Fogo: O uso de machine learning para análise das queimadas no cerrado brasileiro. </li> 
 </ul> 
 
 ### Dicas, dúvidas ou curiosidade? Entre em contato :ok_woman:
 
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/kpsmonyque/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/USERNAME)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/kpsmonyque/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/monyquekaroline.paulasilva)
 [<img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/channel/UCkPvPpkuacuD2O5Km7vXs6A)
 
 <hr>
