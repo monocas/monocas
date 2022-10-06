@@ -1,11 +1,26 @@
+<details>
+  <summary>
+    English Version
+  </summary>
+
+<ul> :ok_woman: Hi! My name is Monyque and my nickname is "Monocas"! </ul> 
+<ul> :woman_student: I'm a estudent of the Bachelor of Science and Technology at Ilum - School of Science - Campinas/SP. </ul> 
+<ul> :fire: <b> Project:</b> Fire Risk: The use of machine learning to analyze fires in the Brazilian cerrado. </ul> 
+
+<p align="justify"> Tips, doubts or curiosity? Contact:ok_woman:</p>
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/kpsmonyque/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/USERNAME)
+[<img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/channel/UCkPvPpkuacuD2O5Km7vXs6A)
+</details>
+
 <h3 align="center"> ✨ Olá! Seja bem vindo ao meu perfil do GitHub ✨</h3>
-<h3 align="center"> *inserir meu octocat* </h3>
 
 <ul> :ok_woman: Meu nome é Monyque, mas podem me chamar de "Monocas"! </ul> 
-<ul> :woman_student: Sou estudante do Bacharelado de Ciência e Tecnologia da Ilum - Escola de Ciência - Campinas/SP. </ul> 
+<ul> :ok_woman: Técnica em Eletrônica, IFSP - Campus Campinas/SP.</ul> 
+<ul> :woman_student: Estudante do Bacharelado de Ciência e Tecnologia da Ilum - Escola de Ciência - Campinas/SP. </ul> 
 <ul> :fire: <b> Projeto atual:</b> Risco de Fogo: O uso de machine learning para análise das queimadas no cerrado brasileiro </ul> 
 
-<p align="justify">Quer me conhecer mais? Entre em contato :ok_woman:</p>
+<p align="justify"> Dicas, dúvidas ou curiosidade? Entre em contato :ok_woman:</p>
 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/kpsmonyque/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/USERNAME)
@@ -21,4 +36,11 @@
 
 ### Status
 
-<img height="180em" src= "https://github-readme-stats.vercel.app/api?username=monocas&show_icons=true&theme=tokyonight"/> 
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=monocas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monocas&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+### Muito obrigada pela atenção! Até a próxima
+<img src="https://user-images.githubusercontent.com/106678040/194165056-a15e2632-2b27-4d3d-9dc7-7cf209205fd5.png" width="400" height="400"/>
