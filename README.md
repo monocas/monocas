@@ -56,5 +56,5 @@
 <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monocas&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-### Muito obrigada pela atenção! Até a próxima
+### Muito obrigada pela atenção! Até a próxima :raising_hand_woman:
 <img src="https://user-images.githubusercontent.com/106678040/194165056-a15e2632-2b27-4d3d-9dc7-7cf209205fd5.png" width="400" height="400"/>
