@@ -21,6 +21,25 @@
 <li> :woman_student:  Técnica em Eletrônica, IFSP - Campus Campinas/SP.</li> 
 <li> :woman_scientist:Estudante do Bacharelado de Ciência e Tecnologia da Ilum - Escola de Ciência - Campinas/SP. </li> 
 <li> :fire: <b> Projeto atual:</b> Risco de Fogo: O uso de machine learning para análise das queimadas no cerrado brasileiro. </li> 
+  <details>
+  <summary>
+    Detalhes sobre o projeto :computer:
+  </summary>
+    
+    ## Descrição do Projeto
+<p align="justify">
+O presente projeto busca desenvolver por meio de Machine Learning, um sistema de previsões de focos de incêndio no Cerrado brasileiro. Em um primeiro momento, a target analisada foi o Risco de Fogo sendo atribuídas variáveis da climatologia local, com informações a respeito da precipitação, dias sem chuva e localização geográfica, todos os dados obtidos foram por meio das APIs e Databases do INPE - Instituto Nacional de Pesquisas Espacias. 
+</p>
+<p align="justify">
+Desenvolve-se um repositório com o intuito de demonstrar o processo metodológico utilizado para o desenvolvimento da pesquisa. Inicialmente, as desenvolvedoras definiram um objeto de estudo de interesse coletivo e posteriormente, realizaram a coleta dos dados e a sua análise para a obtenção de uma representação gráfica acerca das informações adquiridas. Como citado, o objeto de estudo é referente aos focos de incêndio que tem se expandido, em especial, no território do Cerrado, em que, normalmente, a responsável por tal é a atividade agrícola. Entretanto, nos últimos anos, efeitos de mundanças climáticas tem aumento as probabilidades dos focos.</p>
+<p align="justify">
+Este projeto foi elaborado pelas estudantes durante o segundo semestre de graduação da Ilum - Escola de Ciência, para a disciplina de Aprendizado de Máquina. O grupo desenvolvedor é composto pelas estudantes: </p>
+<p>:heavy_check_mark: Isabela Bento Beneti  </p>
+<p> :heavy_check_mark: Monyque Karoline de Paula Silva </p>
+<p> :heavy_check_mark: Sofia Baccega C.C. de Oliveira </p>
+<p> :heavy_check_mark: Sophia Figueiredo Michel </p>
+  </details>
+
 </ul> 
 
 ### Dicas, dúvidas ou curiosidade? Entre em contato :ok_woman:
@@ -34,11 +53,6 @@
 ### Ferramentas & Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/>
-
-
-
-
-
 
 
 ### Estou aprendendo
